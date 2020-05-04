@@ -6,6 +6,7 @@ CELL_WIDTH  = 25
 CELL_HEIGHT = 25
 PADDING     = 20
 
+
 class playback_positions(tk.Tk):
     
     def __init__(self, true_positions, observed_positions,
